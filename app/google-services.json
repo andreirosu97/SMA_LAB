@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224333175766",
+    "firebase_url": "https://smart-wallet-9c921.firebaseio.com",
+    "project_id": "smart-wallet-9c921",
+    "storage_bucket": "smart-wallet-9c921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224333175766:android:b22161664bd7fbe3486277",
+        "android_client_info": {
+          "package_name": "com.upt.cti.smartwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224333175766-dq3tukqv2dl2lq1q23oofe54frmlt1rh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upt.cti.smartwallet",
+            "certificate_hash": "438da0ab57cdce149f4bc6ae6a440f0b9063861c"
+          }
+        },
+        {
+          "client_id": "224333175766-m9pn7710kadtej108bc88c3n1cetoqfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9XWW131oOS9savnN5Fi8ZumzpT4LUMSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224333175766-m9pn7710kadtej108bc88c3n1cetoqfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

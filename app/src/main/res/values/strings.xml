@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartWallet</string>
+    <string name="action_settings">Settings</string>
+    <string name="month_label">Current month</string>
+</resources>
